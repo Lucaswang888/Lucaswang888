@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Lucas
 
-**Undergraduate @ Xiamen University Malaysia** · Research in **Artificial Intelligence** 🤖
+**Undergraduate @ Xiamen University Malaysia** · Research in **Artificial Intelligence** 
 
 [![My Work](https://img.shields.io/badge/🎨_My_Work-Portfolio-8b5cf6?style=for-the-badge)](https://wangwenjing.mystrikingly.com/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285f4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=OLFXMUoAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/📧_Email-DMT2309240@xmu.edu.my_here-ea4335?style=for-the-badge&logo=gmail)](mailto:DMT2309240@xmu.edu.my)
 
-*Reinforcement Learning 🔁 ·  Robustness training ⚠️ · Embodied Intelligence 🤖 · Multimodal AI 🧠*
+*Reinforcement Learning 🔁 ·  Robustness training 🛡️ · Embodied AI 🤖 · Multimodal LLM 🧠*
 
 </div>
 
@@ -37,8 +37,8 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ## 🔥 Recent Work
 
-- 🚗 [**SECURE:**](https://arxiv.org/abs/2604.01337) Stable Early Collision Understanding via Robust Embeddings in Autonomous Driving, accepted at 2026 ICIC (CCF-C)
-- 🚀 **Adaptive Risk-aware IQN** for safe USV navigation in dynamic environments, under submission to IEEE RAL (SCI Q2)
+- 🚘 [**SECURE:**](https://arxiv.org/abs/2604.01337) Stable Early Collision Understanding via Robust Embeddings in Autonomous Driving, accepted at 2026 ICIC (CCF-C)
+- 🧭 **Adaptive Risk-aware IQN** for safe USV navigation in dynamic environments, under submission to IEEE RAL (SCI Q2)
 - 🤖 Ongoing study on **multimodal agents and decision-making systems**
 
 ---
