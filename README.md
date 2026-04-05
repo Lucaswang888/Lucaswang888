@@ -77,7 +77,7 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ### 🧰 Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,rider,pycharm,opencode" />
+  <img src="https://skillicons.dev/icons?i=vscode,vs,rider,pycharm" />
 </p>
 
 ### 🎮 Game Development
