@@ -67,12 +67,12 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ### 🧠 AI & Research
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,r,latex,pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,r,latex,pytorch,tensorflow" />
 </p>
 
 ### ⚙️ Engineering & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,linux,git,redis,mongodb,postman,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=github,docker,linux,git" />
 </p>
 
 ### 🧰 Development Tools
