@@ -22,8 +22,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucaswang888&show_icons=true&include_all_commits=true" height="180px"/>
-</p>
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=Lucaswang888&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Lucaswang888&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
+</a>
 
 ---
 
