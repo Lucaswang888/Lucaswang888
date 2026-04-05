@@ -37,7 +37,8 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ## 🔥 Recent Work
 
-- 🚀 **Adaptive Risk-aware IQN** for safe USV navigation in dynamic environments  submitted to 
+- 🚗 **SECURE:** Stable Early Collision Understanding via Robust Embeddings in Autonomous Driving, accepted at 2026 ICIC (CCF-C)
+- 🚀 **Adaptive Risk-aware IQN** for safe USV navigation in dynamic environments, under submission IEEE RAL (SCI Q2)
 - 🧠 Exploration of **risk-sensitive policy learning** under uncertainty  
 - 🤖 Ongoing study on **multimodal agents and decision-making systems**
 
