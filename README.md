@@ -8,7 +8,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285f4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=OLFXMUoAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/📧_Email-DMT2309240@xmu.edu.my_here-ea4335?style=for-the-badge&logo=gmail)](mailto:DMT2309240@xmu.edu.my)
 
-*Reinforcement Learning 🔁 · Risk-sensitive Decision Making ⚠️ · Embodied Intelligence 🤖 · Multimodal AI 🧠*
+*Reinforcement Learning 🔁 ·  Robustness training ⚠️ · Embodied Intelligence 🤖 · Multimodal AI 🧠*
 
 </div>
 
@@ -37,7 +37,7 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ## 🔥 Recent Work
 
-- 🚀 **Adaptive Risk-aware IQN** for safe USV navigation in dynamic environments  
+- 🚀 **Adaptive Risk-aware IQN** for safe USV navigation in dynamic environments  submitted to 
 - 🧠 Exploration of **risk-sensitive policy learning** under uncertainty  
 - 🤖 Ongoing study on **multimodal agents and decision-making systems**
 
@@ -50,6 +50,17 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 | *Now* | **B.Eng. in Digital Media Technology** | Xiamen University Malaysia |
 
 ---
+
+## 🎖 Honors & Awards
+
+| Type | Award |
+|------|--------|
+| 🥇 | MJIC Competition (Undergraduate Category), **Gold Award** (2026) |
+| 🥈 | National 3D Digital Innovation Design Competition, **Second Prize** (2025) |
+| 🏆 | Xiamen University Scholarship (**Top 3%**) (2025) |
+| 🥈 | TechExpo (Robotics & Automation), **Silver Award** (2024) |
+| 📊 | Outstanding Student List, School of Computing (2024–2025, twice selected) |
+
 
 ## 💻 Skills
 
@@ -74,11 +85,6 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 </p>
 
 ---
-
-## 🎯 Goal
-
-> Building intelligent systems that can **perceive, decide, and act safely in complex environments**.
-
 ---
 
 <div align="center">
