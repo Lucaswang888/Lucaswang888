@@ -28,9 +28,9 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 | Area | Topics |
 |------|--------|
-| **Reinforcement Learning** | Distributional RL (IQN), CVaR, risk-sensitive decision making |
-| **Embodied Intelligence** | Autonomous navigation, decision-making in dynamic environments |
-| **Multimodal AI** | Vision-language models, agent-based systems |
+| **Reinforcement Learning** | DQNs, IQNs, PPO, DDPG, SAC |
+| **Embodied AI** | Visual intelligent navigation, RL-based decision making |
+| **Multimodal** | Multimodal Understanding and Generation |
 | **Safe AI** | Reliability, robustness in real-world scenarios |
 
 ---
