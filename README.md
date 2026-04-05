@@ -16,7 +16,7 @@
 
 ## 📌 About Me
 
-I am **Wenjing Wang** (you can call me **Lucas**), an undergraduate student at the **School of Computing and data science**, [Xiamen University Malaysia (XMUM)](https://www.xmu.edu.my/), my FYP is supervised by [Dr. Yau Wei Chuen](https://scholar.google.com/citations?user=UUVu-KEAAAAJ&hl=en).
+I am **Wenjing Wang** (you can call me **Lucas**), an undergraduate student at the **School of Computing and Data Science**, [Xiamen University Malaysia (XMUM)](https://www.xmu.edu.my/), my FYP is supervised by [Dr. Yau Wei Chuen](https://scholar.google.com/citations?user=UUVu-KEAAAAJ&hl=en).
 
 My research interests lie in **Artificial Intelligence**, with a focus on **Trustworthy AI** and **Reinforcement Learning**. My previous work includes studying the **robustness and safety of vision models in autonomous driving**, as well as **reinforcement learning-based navigation**.
 
