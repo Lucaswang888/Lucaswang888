@@ -82,13 +82,9 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ### 🎮 Game Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,epic,unreal,cpp" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
 
-### 🎨 Digital Media Area
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,an,maya," />
-</p>
 ---
 ---
 
