@@ -67,32 +67,27 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 
 ### 🧠 AI & Research
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,r,latex,bash,numpy,pandas,pytorch,tensorflow,opencv,sklearn" />
-</p>
-
-### 🤖 Reinforcement Learning & AI Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,r,latex,pytorch,tensorflow,opencv,sklearn" />
 </p>
 
 ### ⚙️ Engineering & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,redis,mongodb,postman,flask,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=github,docker,linux,git,redis,mongodb,postman,fastapi,nodejs" />
 </p>
 
 ### 🧰 Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,jupyter" />
+  <img src="https://skillicons.dev/icons?i=vscode,rider,pycharm,jupyter" />
 </p>
 
 ### 🎮 Game Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,csharp,cpp,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,epic,unreal,cpp" />
 </p>
 
-### 🎨 Digital Media & Animation
+### 🎨 Digital Media Area
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,pr,au,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=ps,an,maya," />
 </p>
 ---
 ---
