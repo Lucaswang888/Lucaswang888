@@ -84,8 +84,6 @@ Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**,
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
-
----
 ---
 
 <div align="center">
