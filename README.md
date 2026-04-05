@@ -4,6 +4,8 @@
 
 **Undergraduate @ Xiamen University Malaysia** · Research in **Artificial Intelligence** 🤖
 
+[![My Work](https://img.shields.io/badge/🎨_My_Work-Portfolio-8b5cf6?style=for-the-badge)](https://wangwenjing.mystrikingly.com/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285f4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=gRXN-rMAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/📧_Email-your_email_here-ea4335?style=for-the-badge&logo=gmail)](mailto:your_email_here)
 
 *Reinforcement Learning 🔁 · Risk-sensitive Decision Making ⚠️ · Embodied Intelligence 🤖 · Multimodal AI 🧠*
@@ -14,9 +16,11 @@
 
 ## 📌 About Me
 
-I am an undergraduate student at **Xiamen University Malaysia (XMUM)**, currently ranked **top in my major**. My primary research focus is on **Artificial Intelligence**, particularly **Reinforcement Learning**.
+I am **Wenjing Wang** (you can call me **Lucas**), an undergraduate student at the **School of Computing**, **Xiamen University Malaysia (XMUM)**, supervised by **Dr. Yau Wei Chuen**.
 
-My recent work centers on **risk-aware decision making** using **Distributional Reinforcement Learning (IQN, CVaR)**, with applications in **safe navigation under dynamic environments** (e.g., USV systems). I am also interested in **embodied intelligence** and **multimodal learning systems**.
+My research interests lie in **Artificial Intelligence**, with a focus on **Trustworthy AI** and **Reinforcement Learning**. My previous work includes studying the **robustness and safety of vision models in autonomous driving**, as well as **reinforcement learning-based navigation**.
+
+Currently, I am exploring **Multimodal Learning** and **Embodied Intelligence**, aiming to build intelligent systems that can operate reliably in complex real-world environments.
 
 ---
 
