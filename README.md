@@ -5,11 +5,17 @@
 - 🌟 Interested in Multimodal LLMs & AI Agents  
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&include_all_commits=true" height="185px">
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,r,js,ts,latex,md,bash" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,latex,git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,redis,mongodb,postman" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,ae,au,pr,blender,arduino" />
 </p>
