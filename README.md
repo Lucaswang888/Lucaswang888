@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lucas
 
-**Undergraduate @ Xiamen University Malaysia** · Research in **Artificial Intelligence** 
+**Undergraduate @ Xiamen University (Malaysia Campus)** · Research in **Artificial Intelligence** 
 
 [![My Work](https://img.shields.io/badge/🎨_My_Work-Portfolio-8b5cf6?style=for-the-badge)](https://wangwenjing.mystrikingly.com/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285f4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=OLFXMUoAAAAJ&hl=en)
