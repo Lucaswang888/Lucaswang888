@@ -6,7 +6,7 @@
 
 [![My Work](https://img.shields.io/badge/🎨_My_Work-Portfolio-8b5cf6?style=for-the-badge)](https://wangwenjing.mystrikingly.com/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285f4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=OLFXMUoAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/📧_Email-DMT2309240@xmu.edu.my_here-ea4335?style=for-the-badge&logo=gmail)](mailto:DMT2309240@xmu.edu.my)
+[![Email](https://img.shields.io/badge/📧_Email-15650104114@163.com_here-ea4335?style=for-the-badge&logo=gmail)](mailto:15650104114@163.com)
 
 *Reinforcement Learning 🔁 ·  Robustness training 🛡️ · Embodied AI 🤖 · Multimodal LLM 🧠*
 
